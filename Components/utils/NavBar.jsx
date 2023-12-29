@@ -7,6 +7,7 @@ import { BsTelephone } from "react-icons/bs";
 import { BsInfoCircle } from "react-icons/bs";
 import { AiOutlineHome } from "react-icons/ai";
 import { AiOutlineFileDone } from "react-icons/ai";
+import { IoLogoDesignernews } from "react-icons/io5";
 
 import { RiMoonLine } from "react-icons/ri";
 import { useTheme } from "next-themes";
@@ -27,9 +28,10 @@ const NavBar = () => {
       <div className="lg:hidden flex justify-between items-center px-4  py-4">
         <Link href='/' className="flex gap-2 justify-center items-center">
           <span className="text-2xl">
-            <FaCode className="w-10 h-10" />
+            {/* <FaCode className="w-10 h-10" /> */}
+            <IoLogoDesignernews className="text-8 lg:w-8 h-8 font-bold" />
           </span>
-          <span className="text-2xl uppercase font-bold ">Hassan</span>
+          <span className="text-2xl uppercase font-bold ">Mahdi</span>
         </Link>
         <div className="flex-col">
           <span
@@ -122,9 +124,10 @@ const NavBar = () => {
       >
         <section className="hidden lg:flex gap-2  items-center">
           <span className="text- mt-2">
-            <FaCode className="text-8 lg:w-8 h-8 font-bold " />
+            {/* <FaCode className="text-8 lg:w-8 h-8 font-bold " /> */}
+            <IoLogoDesignernews className="text-8 lg:w-8 h-8 font-bold" />
           </span>
-          <span className="text-2xl uppercase font-bold">Hassan</span>
+          <span className="text-2xl uppercase font-bold">Mahdi</span>
         </section>
         <div className="hidden md:block ml-12 lg:ml-32">
           <ul className="flex justify-center items-center gap-6 font-medium">

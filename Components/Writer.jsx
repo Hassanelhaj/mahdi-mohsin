@@ -16,7 +16,7 @@ const Writer = () => {
         <span >
           {/* Style will be inherited from the parent element */}
           <Typewriter
-            words={['Backend Engineer','Graphical Designer']}
+            words={['Graphical Designer']}
             loop={2}
             cursor
             cursorStyle='_'

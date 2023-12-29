@@ -12,89 +12,54 @@ const Skills = () => {
     >
       <SubTitle title="Skills" />
       <main className="grid grid-cols-1 lg:grid-cols-2 ">
+       
         <section
           className="flex flex-col justify-center items-center mr-4
         gap-2"
         >
           <div className="flex justify-start items-center gap-2">
-            <span className="w-20 text-sm">Html</span>
+            <span className="w-20 text-sm"> Photoshop</span>
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block  w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300 dark:bg-slate-700 dark:bg-white0"></span>
-            </div>
-          </div>
-          <div className="flex justify-start items-center gap-2 ">
-            <span className="w-20 text-sm">css</span>
-            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className=" block w-32 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
+              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
           </div>
           <div className="flex justify-start items-center gap-2">
-            <span className=" w-20 text-sm">js</span>
+            <span className="w-20 text-sm"> Premiere</span>
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className=" block w-32 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
+              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
           </div>
           <div className="flex justify-start items-center gap-2">
-            <span className="w-20 text-sm">bootstrap</span>
+            <span className="w-20 text-sm"> Illustrator</span>
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
               <span className="block w-32 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
+            
           </div>
-          <div className="flex justify-start items-center gap-2 ">
-            <span className="w-20 text-sm">php</span>
-            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
-            </div>
-          </div>
-         
-      
           <div className="flex justify-start items-center gap-2">
-            <span className="w-20 text-sm">laravel</span>
+            <span className="w-20 text-sm"> After Effect</span>
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
+              <span className="block w-32 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
+            
           </div>
-          <div className="flex justify-start items-center gap-2 ">
-            <span className="w-20 text-sm">lumen</span>
-            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
-            </div>
-          </div>
-
-          <div className="flex justify-start items-center gap-2 ">
-            <span className="w-20 text-sm">my sql</span>
-            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
-            </div>
-          </div>
-         
-      
+          
+       
         </section>
-        {/* <section
-          className="flex flex-col justify-center items-center mr-4
-        gap-2"
-        >
-          <div className="flex justify-start items-center gap-2">
-            <span className="w-20 text-sm">nodejs</span>
-            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
-            </div>
-          </div>
-          <div className="flex justify-start items-center gap-2 ">
-            <span className="w-20 text-sm">MongoDb</span>
-            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
-            </div>
-          </div>
-        </section> */}
         <section
           className="flex flex-col justify-center items-center mr-4
         gap-2"
         >
           <div className="flex justify-start items-center gap-2">
-            <span className="w-20 text-sm">Mangments Skills</span>
+            <span className="w-20 text-sm">Office</span>
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-32 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
+              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
+            </div>
+          </div>
+          <div className="flex justify-start items-center gap-2">
+            <span className="w-20 text-sm">Creativity</span>
+            <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
+              <span className="block w-[130px] h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
           </div>
           <div className="flex justify-start items-center gap-2">
@@ -102,13 +67,16 @@ const Skills = () => {
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
               <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
+            
           </div>
           <div className="flex justify-start items-center gap-2">
             <span className="w-20 text-sm">English</span>
             <div className="w-40 h-4 bg-slate-700 dark:bg-white rounded-lg">
-              <span className="block w-36 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
+              <span className="block w-32 h-4  bg-gradient-to-r from-green-300 via-indigo-600-300 to-blue-300  dark:bg-slate-700 dark:bg-white0"></span>
             </div>
+            
           </div>
+          
        
         </section>
       </main>
