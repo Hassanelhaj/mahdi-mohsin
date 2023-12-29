@@ -32,9 +32,8 @@ const Hero = () => {
           </div>
           <p className="capitalize text-center font-thin w-72">
             
-            Creative Programmer and  skilled in developing restFull Apis  with
-            Laravel & Lumen that have clean structure ,
-             smart problem solver and perfect in time managment
+          I'm fresh ,talented and excited graphic designer.Im ready to do all of graphic designs especially social media ,cv , company profile and menu ,also I make professional video editing.
+I'm your guide to make your business brighting
           </p>
           <div className="flex flex-col sm:flex-row justify-between items-center gap-3 mt-2 ">
             <a
