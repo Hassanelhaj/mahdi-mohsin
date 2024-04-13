@@ -6,22 +6,22 @@ import Writer from "./Writer";
 const Hero = () => {
   return (
     <div
-      className="container mx-auto h-full pt-16 sm:pt-20 md:mb-10 md:px-4 "
+      className="container mx-auto h-full pt-16 sm:pt-10 md:mb-10 md:px-4 "
       id="home"
     >
       <div
-        className="flex flex-col sm:flex-row-reverse  justify-center
-     sm:justify-between sm:px-12 items-center gap-4 sm:flex sm:ml-0
-      sm:gap-10 sm:p-8 "
+        className="flex flex-col sm:flex-row-reverse justify-center
+     sm:justify-between sm:px-16 items-center gap-4 sm:flex sm:ml-0
+      md:gap-4 md:p-4 "
       >
         <Image
           className="rounded-full shadow-[0_3px_10px_rgb(0,0,0,0.1)]  dark:shadow-[0_3px_10px_rgb(0,0,0,0.1)] dark:shadow-white
-           dark:border-0 w-64 h-64 "
+           dark:border-0 "
           priority={true}
           src={profile}
           alt="profile image"
-          width={200}
-          height={200}
+          width={400}
+          height={400}
         />
         <div className="flex flex-col  justify-center items-center flex-wrap gap-y-10  p-4">
           <p className="text-2xl font-medium capitalize">
@@ -32,8 +32,7 @@ const Hero = () => {
           </div>
           <p className="capitalize text-center font-thin w-72">
             
-          I'm fresh ,talented and excited graphic designer.Im ready to do all of graphic designs especially social media ,cv , company profile and menu ,also I make professional video editing.
-I'm your guide to make your business brighting
+          I'm junior ,Talented And professional Graphic Designer.Im Ready To Do  Social Media ,all kind of printable product such as logo , business card ,flyer ,prochure and so on ,Also I Make Professional Video Editing. I'm Your Guide To Make Your Business Brighting
           </p>
           <div className="flex flex-col sm:flex-row justify-between items-center gap-3 mt-2 ">
             <a
